@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KoKai Quiz</string>
+    <string name="image">image</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="finish">FINISH</string>
+</resources>
